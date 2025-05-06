@@ -1,0 +1,3 @@
+interface Database {
+    void connect();
+}
